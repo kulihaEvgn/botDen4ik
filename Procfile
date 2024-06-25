@@ -1,1 +1,2 @@
-worker: npm run build npm start
+worker: npm run build
+worker: npm start ./dist/index.js
